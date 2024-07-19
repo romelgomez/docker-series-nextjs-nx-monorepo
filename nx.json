@@ -12,7 +12,7 @@
       "!{projectRoot}/.eslintrc.json",
       "!{projectRoot}/eslint.config.js"
     ],
-    "sharedGlobals": []
+    "sharedGlobals": ["{workspaceRoot}/.gitlab-ci.yml"]
   },
   "plugins": [
     {
