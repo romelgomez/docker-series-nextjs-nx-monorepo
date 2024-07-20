@@ -1,0 +1,1 @@
+npx nx start web
